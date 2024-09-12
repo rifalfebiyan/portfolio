@@ -952,9 +952,12 @@ video {
   background-color: rgb(15 23 42 / var(--tw-bg-opacity));
 }
 
+/* GANTI WARNA DONWLOAD CV */
 .bg-primary {
   --tw-bg-opacity: 1;
-  background-color: rgb(20 184 166 / var(--tw-bg-opacity));
+  background-color: rgb(250 150 0 / var(--tw-bg-opacity));
+  
+  
 }
 
 .bg-slate-100 {
@@ -1160,10 +1163,13 @@ video {
   --tw-text-opacity: 1;
   color: rgb(219 39 119 / var(--tw-text-opacity));
 }
-
+/* GANTI WARNA TEKS */
 .text-primary {
   --tw-text-opacity: 1;
-  color: rgb(20 184 166 / var(--tw-text-opacity));
+  color: rgb(250 150 0 / var(--tw-text-opacity));
+  /* color: rgba(250, 150, 0, var(--tw-text-opacity)); */
+
+
 }
 
 .text-secondary {
